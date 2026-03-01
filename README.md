@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://vaultick.com/logo.png" alt="Vaultick Logo" width="120" />
+  <img src="./assets/logo.png" alt="Vaultick Logo" width="120" />
   <h1>Vaultick</h1>
   <p>
     <strong>Secure for now. Saved for later.</strong>
